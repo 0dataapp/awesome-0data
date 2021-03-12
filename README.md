@@ -23,3 +23,4 @@ _Resources around owning your data 100%_
 - [e.ggtimer](https://e.ggtimer.com): Simple countdown timers.
 - [TinyMonth](https://tinymonth.com): Shareable calendar with marked dates.
 - [TinySheet](https://tinysheet.com): Shareable tiny spreadsheet.
+- [RegExr](https://regexr.com): Visualze regular expressions.
