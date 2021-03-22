@@ -4,6 +4,7 @@ _Resources around owning your data 100%_
 
 # Apps
 - [TiddlyWiki](http://www.tiddlywiki.com/): A non-linear personal web notebook.
+- [Nomie](https://nomie.app): Privacy-focused life tracker.
 - [Snapdrop](https://snapdrop.net): Instantly share images, videos, PDFs, and links over wifi.
 - [Jitsi Meet](https://meet.jit.si): Video calls in the browser with no accounts.
 - [tlk.io](https://tlk.io): Video calls in the browser with no accounts.
