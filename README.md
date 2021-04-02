@@ -12,6 +12,7 @@ _Resources around owning your data 100%_
 - [Radio Garden](http://radio.garden): Find stations by spinning the globe.
 - [muki](https://muki.io): Online MIDI player.
 - [Leimma](https://isartum.net/leimma): Explore, create, hear and play microtonal tuning systems.
+- [Apotome](https://isartum.net/apotome): A browser-based generative music environment based on octave-repeating microtonal tuning systems and their subsets (scales/modes).
 - [2 Brew](https://2brew.github.io): Interactive timers guiding coffee brewing.
 - [e.ggtimer](https://e.ggtimer.com): Simple countdown timers.
 - [Clock App](https://clockapp.tk): Customizable analog alarm clock with other time tools.
