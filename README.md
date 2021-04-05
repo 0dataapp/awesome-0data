@@ -33,6 +33,6 @@ _Resources around owning your data 100%_
 - [PixelCraft](https://pixelcraft.web.app): Pixel art editor.
 - [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes from text.
 - [Farmhand](https://jeremyckahn.github.io/farmhand): Game to make money by buying, growing, harvesting, and then selling crops.
-- [RegExr](https://regexr.com): Visualze regular expressions.
-- [Small Web App Ring](https://ring.0data.app): Visualze regular expressions.
+- [RegExr](https://regexr.com): Visualize regular expressions.
+- [Small Web App Ring](https://ring.0data.app): A webring for web apps.
 - [Pimeja](https://pimeja.lectronice.com): An English/French Toki Pona dictionary.
