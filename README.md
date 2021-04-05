@@ -35,3 +35,4 @@ _Resources around owning your data 100%_
 - [Farmhand](https://jeremyckahn.github.io/farmhand): Game to make money by buying, growing, harvesting, and then selling crops.
 - [RegExr](https://regexr.com): Visualze regular expressions.
 - [Small Web App Ring](https://ring.0data.app): Visualze regular expressions.
+- [Pimeja](https://pimeja.lectronice.com): An English/French Toki Pona dictionary.
