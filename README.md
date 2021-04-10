@@ -37,3 +37,4 @@ _Resources around owning your data 100%_
 - [RegExr](https://regexr.com): Visualize regular expressions.
 - [Small Web App Ring](https://ring.0data.app): A webring for web apps.
 - [Pimeja](https://pimeja.lectronice.com): An English/French Toki Pona dictionary.
+- [Pinafore](https://pinafore.social): Web client for Mastodon, designed for speed and simplicity.
