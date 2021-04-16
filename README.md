@@ -7,6 +7,7 @@ _Resources around owning your data 100%_
 - [Nullboard](https://nullboard.io/preview): Minimalist locally-stored kanban board.
 - [Nomie](https://nomie.app): Privacy-focused life tracker.
 - [Snapdrop](https://snapdrop.net): Instantly share images, videos, PDFs, and links over wifi.
+- [Wormhole](https://wormhole.app): Simple, private file sharing.
 - [Jitsi Meet](https://meet.jit.si): Video calls in the browser with no accounts.
 - [tlk.io](https://tlk.io): Video calls in the browser with no accounts.
 - [AI Vocal Remover](https://vocalremover.org): Separate vocals from music with artificial intelligence.
