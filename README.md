@@ -3,6 +3,7 @@
 _Resources around owning your data 100%_
 
 # Apps
+- [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer.
 - [TiddlyWiki](http://www.tiddlywiki.com/): A non-linear personal web notebook.
 - [Nullboard](https://nullboard.io/preview): Minimalist locally-stored kanban board.
 - [Nomie](https://nomie.app): Privacy-focused life tracker.
