@@ -39,7 +39,7 @@ _Resources around owning your data 100%_
 - [QR Code Generator](https://qr-code-generator.now.sh): Create custom QR Codes from text.
 - [Farmhand](https://jeremyckahn.github.io/farmhand): Game to make money by buying, growing, harvesting, and then selling crops.
 - [RegExr](https://regexr.com): Visualize regular expressions.
-- [Small Web App Ring](https://ring.0data.app): A webring for web apps.
+- [Doorless App Ring](https://ring.0data.app): A webring for web apps.
 - [Pimeja](https://pimeja.lectronice.com): An English/French Toki Pona dictionary.
 - [Pinafore](https://pinafore.social): Web client for Mastodon, designed for speed and simplicity.
 - [TinyList](https://tinylist.app): Privacy-focused notes and checklists that you can share.
