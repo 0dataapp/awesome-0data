@@ -3,6 +3,7 @@
 _Resources around owning your data 100%_
 
 # Apps
+- [Monocle](https://monocle.surge.sh): Universal, personal search engine for life.
 - [Muse](https://museapp.com): Spatial canvas for deep thinking.
 - [Delta Chat](https://delta.chat): A mobile messaging app that invisibly works on top of email.
 - [Bangle.io](https://bangle.io): A free Notion alternative that stores markdown notes in the browser.
