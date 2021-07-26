@@ -2,6 +2,41 @@
 
 _Resources around owning your data 100%_
 
+# Protocols
+
+<table>
+  <tr>
+    <td>
+      <a href="https://remotestorage.io">
+        <img title="remoteStorage" src="https://remotestorage.io/img/icon.svg" height="32" />
+      </a>
+    </td>
+    <td>
+      remoteStorage
+    </td>        
+  </tr>
+  <tr>
+    <td>
+      <a href="https://fission.codes">
+        <img title="Fission" src="https://static.rosano.ca/0data/fission.svg" height="32" />
+      </a>
+    </td>
+    <td>
+      Fission
+    </td>        
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solidproject.org">
+        <img title="Solid" src="https://solidproject.org/assets/img/solid-emblem.svg" height="32" />
+      </a>
+    </td>
+    <td>
+      Solid
+    </td>        
+  </tr>
+</table>
+
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
 - [Monocle](https://monocle.surge.sh): Universal, personal search engine for life.
