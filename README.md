@@ -37,6 +37,12 @@ _Resources around owning your data 100%_
   </tr>
 </table>
 
+# Tools
+- [StorageStack](https://github.com/jorishermans/storagestack): A decentralized storage abstraction middleware framework.
+- [Zero Data Wrap](https://github.com/0dataapp/0datawrap): Unified JavaScript API for Fission + remoteStorage.
+- [Project Cambria](https://www.inkandswitch.com/cambria.html): Translate your data with lenses.
+- [Easy Indie App](https://easyindie.app): Self-host your data in a few clicks.
+
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
 - [Monocle](https://monocle.surge.sh): Universal, personal search engine for life.
