@@ -1,4 +1,6 @@
-# Awesome 0data
+<a href="https://0data.app"><img alt="Project logo" src="https://static.rosano.ca/0data/identity-mono.svg" width="64" /></a>
+
+# Awesome [0data](https://0data.app)
 
 _Resources around owning your data 100%_
 
