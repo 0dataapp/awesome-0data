@@ -71,7 +71,7 @@ _Resources around owning your data 100%_
 - [Dillinger](https://dillinger.io): Markdown text editor.
 - [Idiomatic](https://idiomatic.rosano.ca): Convert text between Markdown, HTML, and Rich Text.
 - [Pandoc Try](https://pandoc.org/try) Convert text between Latex, Markdown, HTML, RST and lots more.
-- [Emojify](https://matthewmiller.dev/apps/emojify): Convert words into emoji.
+- [Emojify](https://madelinemiller.dev/apps/emojify/): Convert words into emoji.
 - [Method Draw](https://editor.method.ac): Vector drawing.
 - [Witeboard](https://witeboard.com): Shareable whiteboard.
 - [AutoDraw](https://www.autodraw.com): Vector drawing with AI suggestions.
