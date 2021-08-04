@@ -89,3 +89,34 @@ _Resources around owning your data 100%_
 - [Pinafore](https://pinafore.social): Web client for Mastodon, designed for speed and simplicity.
 - [TinyList](https://tinylist.app): Privacy-focused notes and checklists that you can share.
 - [Nute](https://nute.app): Simple & fast one-page note taking app.
+
+# Easy Indie Platforms
+
+Self-host in a few clicks.
+
+<table>
+  <tr>
+    <td>
+      <img title="Cloudron" src="https://www.cloudron.io/img/logo.svg" height="32" />
+    </td>
+    <td>
+      <a href="https://www.cloudron.io">Cloudron</a>
+    </td>        
+  </tr>
+  <tr>
+    <td>
+      <img title="CapRover" src="https://caprover.com/img/logo.png" height="32" />
+    </td>
+    <td>
+      <a href="https://caprover.com">CapRover</a>
+    </td>        
+  </tr>
+  <tr>
+    <td>
+      <img title="YunoHost" src="https://static.rosano.ca/eas/yunohost.svg" height="32" />
+    </td>
+    <td>
+      <a href="https://yunohost.org">YunoHost</a>
+    </td>        
+  </tr>
+</table>
