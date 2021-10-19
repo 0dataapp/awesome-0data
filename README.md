@@ -90,6 +90,7 @@ _Resources around owning your data 100%_
 - [TinyList](https://tinylist.app): Privacy-focused notes and checklists that you can share.
 - [Nute](https://nute.app): Simple & fast one-page note taking app.
 - [Music Box Fun](https://musicboxfun.com): 15-note replication of mechanical music boxes.
+- [Itty.bitty](http://about.bitty.site): Create links that contain a webpage.
 
 # Easy Indie Platforms
 
