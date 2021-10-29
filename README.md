@@ -91,7 +91,7 @@ _Resources around owning your data 100%_
 - [Nute](https://nute.app): Simple & fast one-page note taking app.
 - [Music Box Fun](https://musicboxfun.com): 15-note replication of mechanical music boxes.
 - [Itty.bitty](http://about.bitty.site): Create links that contain a webpage.
-- [Seasonal Hours Clock](https://seasonal-hours-clock.netlify.app/): A new style of clock that combines UTC & local times, to make it easier to plan events with friends in different time zones.  [source](https://github.com/cinnamon-bun/seasonal-hours-clock/tree/main/)
+- [Seasonal Hours Clock](https://seasonal-hours-clock.netlify.app/): A new style of clock that combines UTC & local times, to make it easier to plan events with friends in different time zones.
 - [hTime](https://thehtime.com): Very similar to Seasonal Hours Clock except it uses letters for the hours instead of words.  Includes a tool for finding good common meeting times.
 
 # Easy Indie Platforms
