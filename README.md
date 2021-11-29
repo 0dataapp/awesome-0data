@@ -93,6 +93,7 @@ _Resources around owning your data 100%_
 - [Itty.bitty](http://about.bitty.site): Create links that contain a webpage.
 - [Seasonal Hours Clock](https://seasonal-hours-clock.netlify.app/): A new style of clock that combines UTC & local times, to make it easier to plan events with friends in different time zones.
 - [hTime](https://thehtime.com): Very similar to Seasonal Hours Clock except it uses letters for the hours instead of words.  Includes a tool for finding good common meeting times.
+- [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
 
 # Easy Indie Platforms
 
