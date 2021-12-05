@@ -95,6 +95,7 @@ _Resources around owning your data 100%_
 - [hTime](https://thehtime.com): Very similar to Seasonal Hours Clock except it uses letters for the hours instead of words.  Includes a tool for finding good common meeting times.
 - [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
 - [shhh Noise](https://www.shhhnoise.com): Sounds to increase focus and relax.
+- [Fidget Page](https://www.fidgetpage.com): Virtual fidget spinner.
 
 # Easy Indie Platforms
 
