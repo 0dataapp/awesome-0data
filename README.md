@@ -94,7 +94,7 @@ _Resources around owning your data 100%_
 - [Seasonal Hours Clock](https://seasonal-hours-clock.netlify.app/): A new style of clock that combines UTC & local times, to make it easier to plan events with friends in different time zones.
 - [hTime](https://thehtime.com): Very similar to Seasonal Hours Clock except it uses letters for the hours instead of words.  Includes a tool for finding good common meeting times.
 - [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
-- [shhh Noise](https://www.shhhnoise.com): sounds to increase focus and relax.
+- [shhh Noise](https://www.shhhnoise.com): Sounds to increase focus and relax.
 
 # Easy Indie Platforms
 
