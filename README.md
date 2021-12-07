@@ -97,6 +97,7 @@ _Resources around owning your data 100%_
 - [shhh Noise](https://www.shhhnoise.com): Sounds to increase focus and relax.
 - [Fidget Page](https://www.fidgetpage.com): Virtual fidget spinner.
 - [Boring Avatars](https://boringavatars.com): Avatar generator playground.
+- [shaper](https://hihayk.github.io/shaper): Parameterized interface creator.
 
 # Easy Indie Platforms
 
