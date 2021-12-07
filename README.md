@@ -96,6 +96,7 @@ _Resources around owning your data 100%_
 - [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
 - [shhh Noise](https://www.shhhnoise.com): Sounds to increase focus and relax.
 - [Fidget Page](https://www.fidgetpage.com): Virtual fidget spinner.
+- [Boring Avatars](https://boringavatars.com): Avatar generator playground.
 
 # Easy Indie Platforms
 
