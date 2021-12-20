@@ -72,7 +72,7 @@ _Resources around owning your data 100%_
 - [Care Cards](https://carecards.io/info): Helpful tips for wellness.
 - [Dillinger](https://dillinger.io): Markdown text editor.
 - [Idiomatic](https://idiomatic.rosano.ca): Convert text between Markdown, HTML, and Rich Text.
-- [Pandoc Try](https://pandoc.org/try) Convert text between Latex, Markdown, HTML, RST and lots more.
+- [Pandoc Try](https://pandoc.org/try): Convert text between Latex, Markdown, HTML, RST and lots more.
 - [Emojify](https://madelinemiller.dev/apps/emojify/): Convert words into emoji.
 - [Method Draw](https://editor.method.ac): Vector drawing.
 - [Witeboard](https://witeboard.com): Shareable whiteboard.
