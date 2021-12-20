@@ -98,6 +98,7 @@ _Resources around owning your data 100%_
 - [Fidget Page](https://www.fidgetpage.com): Virtual fidget spinner.
 - [Boring Avatars](https://boringavatars.com): Avatar generator playground.
 - [shaper](https://hihayk.github.io/shaper): Parameterized interface creator.
+- [Word Count](https://wordcount.com): Simple word counter.
 
 # Easy Indie Platforms
 
