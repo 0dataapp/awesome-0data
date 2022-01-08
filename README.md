@@ -77,6 +77,7 @@ _Resources around owning your data 100%_
 - [Method Draw](https://editor.method.ac): Vector drawing.
 - [Witeboard](https://witeboard.com): Shareable whiteboard.
 - [AutoDraw](https://www.autodraw.com): Vector drawing with AI suggestions.
+- [tldraw](https://www.tldraw.com): A tiny little drawing app.
 - [Paint](https://jspaint.app): MS Paint remake.
 - [Photopea](https://www.photopea.com): Photo editor.
 - [doka](https://doka.photo): Photo filters and adjustments.
