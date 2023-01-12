@@ -125,7 +125,7 @@ Self-host in a few clicks.
   </tr>
   <tr>
     <td>
-      <img title="YunoHost" src="https://static.rosano.ca/eas/yunohost.svg" height="32" />
+      <img title="YunoHost" src="https://static.rosano.ca/easyindieapp/yunohost.svg" height="32" />
     </td>
     <td>
       <a href="https://yunohost.org">YunoHost</a>
