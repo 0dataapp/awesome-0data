@@ -142,3 +142,28 @@ Self-host in a few clicks.
 - [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Your entry point to high quality and reusable Vocabularies to describe Linked Data.
 - [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
+
+# More self-hosting projects
+- [HomelabOS](https://homelabos.com): Offline-first privacy-centric open-source data-center.
+- [Ethibox](https://ethibox.fr): Ethical self-hosting.
+- [Runtipi](https://runtipi.io): Homeserver management made easy.
+- [Co-op Cloud](https://coopcloud.tech): Public interest infrastructure.
+- [Elestio](https://elest.io): Fully managed DevOps platform.
+- [Sandstorm](https://sandstorm.io): Open-source platform for self-hosting web apps.
+- [umbrelOS](https://umbrel.com/umbrelos): Self-hosting accessible to everyone, including people with less to none technical knowledge.
+- [Cosmos Cloud](https://cosmos-cloud.io): Self-hosting with automated maintenance and security.
+- [CasaOS](https://casaos.io): Simple, easy-to-use, elegant open-source personal cloud system.
+- [PikaPods](https://www.pikapods.com): Instant open-source managed app hosting.
+- [Unraid](https://unraid.net): Powerful, easy-to-use operating system for self-hosted servers and network-attached storage.
+- [Dokku](https://dokku.com): Open source terminal-based PAAS alternative to Heroku.
+- [FreedomBox](https://freedombox.org): Private server for non-experts.
+- [Easypanel](https://easypanel.io): Modern server control panel with intuitive interface.
+- [Coolify](https://coolify.io): Open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [FLAP](https://gitlab.com/flap-box/flap): Self-hosting admin with web GUI to access services and manage domain names.
+- [SelfPrivacy](https://selfprivacy.org): Setup and manage self-hosted services.
+- [libreserver](https://libreserver.org): Your own personal server.
+- [ApisCP](https://apiscp.com): Full-stack hosting platform with self-healing technology.
+- [CloudPanel](https://www.cloudpanel.io): Run your favorite applications and frameworks without any additional configuration.
+- [Gardens](https://www.joingardens.com): Host your own apps, find open-source tools, share how-to guides.
+- [Yacht](https://yacht.sh): Container management UI with a focus on templates and 1-click deployments.
+- [Syncloud](https://syncloud.org): Run your apps at your premises.
