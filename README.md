@@ -44,7 +44,6 @@ _Resources around owning your data 100%_
 - [StorageStack](https://github.com/jorishermans/storagestack): A decentralized storage abstraction middleware framework.
 - [Zero Data Wrap](https://github.com/0dataapp/0datawrap): Unified JavaScript API for Fission + remoteStorage.
 - [Project Cambria](https://www.inkandswitch.com/cambria.html): Translate your data with lenses.
-- [Easy Indie App](https://easyindie.app): Self-host your data in a few clicks.
 
 # Adjacent initiatives
 - [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
@@ -113,7 +112,9 @@ _Resources around owning your data 100%_
 - [shaper](https://hihayk.github.io/shaper): Parameterized interface creator.
 - [Word Count](https://wordcount.com): Simple word counter.
 
-# Easy Indie Platforms
+# [Easy Indie](https://easyindie.app) Platforms
+
+<a href="https://easyindie.app"><img alt="Easy Indie logo" src="https://static.rosano.ca/easyindieapp/identity-green-background.svg" width="32" /></a>
 
 Self-host in a few clicks.
 
