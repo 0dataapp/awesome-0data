@@ -46,6 +46,17 @@ _Resources around owning your data 100%_
 - [Project Cambria](https://www.inkandswitch.com/cambria.html): Translate your data with lenses.
 - [Easy Indie App](https://easyindie.app): Self-host your data in a few clicks.
 
+# Adjacent initiatives
+- [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
+- [ShapeRepo](https://shaperepo.com): Library of 'data shapes' to promote interoperability.
+- [Schema.org](https://schema.org): Vocabularies for structured data.
+- [DXOS](https://dxos.org): Peer-to-peer local-first app toolkit.
+- [Stacks](https://www.stacks.co/explore/discover-apps): Decentralized apps storing data on a wallet.
+- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Your entry point to high quality and reusable Vocabularies to describe Linked Data.
+- [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
+- [Wildland](https://wildland.io): Backend-agnostic docker for your data.
+- [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
+
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
 - [Monocle](https://monocle.surge.sh): Universal, personal search engine for life.
@@ -132,17 +143,6 @@ Self-host in a few clicks.
     </td>        
   </tr>
 </table>
-
-# Adjacent initiatives
-- [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
-- [ShapeRepo](https://shaperepo.com): Library of 'data shapes' to promote interoperability.
-- [Schema.org](https://schema.org): Vocabularies for structured data.
-- [DXOS](https://dxos.org): Peer-to-peer local-first app toolkit.
-- [Stacks](https://www.stacks.co/explore/discover-apps): Decentralized apps storing data on a wallet.
-- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Your entry point to high quality and reusable Vocabularies to describe Linked Data.
-- [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
-- [Wildland](https://wildland.io): Backend-agnostic docker for your data.
-- [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 
 # More self-hosting projects
 - [HomelabOS](https://homelabos.com): Offline-first privacy-centric open-source data-center.
