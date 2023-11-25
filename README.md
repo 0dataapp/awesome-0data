@@ -132,3 +132,13 @@ Self-host in a few clicks.
     </td>        
   </tr>
 </table>
+
+# Adjacent initiatives
+- [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
+- [ShapeRepo](https://shaperepo.com): Library of 'data shapes' to promote interoperability.
+- [Schema.org](https://schema.org): Vocabularies for structured data.
+- [DXOS](https://dxos.org): Peer-to-peer local-first app toolkit.
+- [Stacks](https://www.stacks.co/explore/discover-apps): Decentralized apps storing data on a wallet.
+- [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Your entry point to high quality and reusable Vocabularies to describe Linked Data.
+- [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
+- [Wildland](https://wildland.io): Backend-agnostic docker for your data.
