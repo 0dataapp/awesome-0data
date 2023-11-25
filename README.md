@@ -142,6 +142,7 @@ Self-host in a few clicks.
 - [Linked Open Vocabularies](https://lov.linkeddata.es/dataset/lov/): Your entry point to high quality and reusable Vocabularies to describe Linked Data.
 - [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
+- [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 
 # More self-hosting projects
 - [HomelabOS](https://homelabos.com): Offline-first privacy-centric open-source data-center.
