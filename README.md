@@ -76,7 +76,6 @@ _Resources around owning your data 100%_
 - [Apotome](https://isartum.net/apotome): A browser-based generative music environment with microtonal tuning.
 - [2 Brew](https://2brew.github.io): Interactive timers guiding coffee brewing.
 - [e.ggtimer](https://e.ggtimer.com): Simple countdown timers.
-- [Clock App](https://clockapp.tk): Customizable analog alarm clock with other time tools.
 - [TinyMonth](https://tinymonth.com): Shareable calendar with marked dates.
 - [TinySheet](https://tinysheet.com): Shareable tiny spreadsheet.
 - [EtherCalc](https://ethercalc.net): Spreadsheets.
