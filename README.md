@@ -55,6 +55,7 @@ _Resources around owning your data 100%_
 - [unhosted](http://unhosted.org): Web apps where your data stays within the browser.
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
 - [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
+- [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
