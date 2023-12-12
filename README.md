@@ -58,6 +58,7 @@ _Resources around owning your data 100%_
 - [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
 - ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907): The difference between 'export' snapshots and 'use this data elsewhere'.
 - ["File over app" by Steph Ango](https://stephango.com/file-over-app): Philosophy to create digital artifacts that last.
+- ["Bring Your Own Client" by Geoffrey Litt](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html): Freedom to choose your favorite application to interact with some data.
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
