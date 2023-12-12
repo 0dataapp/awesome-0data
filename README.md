@@ -59,6 +59,7 @@ _Resources around owning your data 100%_
 - ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907): The difference between 'export' snapshots and 'use this data elsewhere'.
 - ["File over app" by Steph Ango](https://stephango.com/file-over-app): Philosophy to create digital artifacts that last.
 - ["Bring Your Own Client" by Geoffrey Litt](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html): Freedom to choose your favorite application to interact with some data.
+- ["Composability with other tools" by Gordon Brander](https://subconscious.substack.com/p/composability-with-other-tools): Why are most of our tools silos?
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
