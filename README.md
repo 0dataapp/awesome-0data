@@ -57,6 +57,7 @@ _Resources around owning your data 100%_
 - [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 - [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
 - ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907)
+- ["File over app" by Steph Ango](https://stephango.com/file-over-app): Philosophy to create digital artifacts that last.
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
