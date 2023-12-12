@@ -45,6 +45,14 @@ _Resources around owning your data 100%_
 - [Zero Data Wrap](https://github.com/0dataapp/0datawrap): Unified JavaScript API for Fission + remoteStorage.
 - [Project Cambria](https://www.inkandswitch.com/cambria.html): Translate your data with lenses.
 
+# Reading
+- ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907): The difference between 'export' snapshots and 'use this data elsewhere'.
+- ["File over app" by Steph Ango](https://stephango.com/file-over-app): Philosophy to create digital artifacts that last.
+- ["Bring Your Own Client" by Geoffrey Litt](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html): Freedom to choose your favorite application to interact with some data.
+- ["Composability with other tools" by Gordon Brander](https://subconscious.substack.com/p/composability-with-other-tools): Why are most of our tools silos?
+- ["Universal data portability" by Alexander Obenauer](https://alexanderobenauer.com/labnotes/002/): What if you could browse your stuff in one fluid interface, without considering their differing data types?
+- ["The future needs files" Scott Jenson](https://jenson.org/files/): The power of files comes from them being powerful nouns.
+
 # Adjacent
 - [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
 - [ShapeRepo](https://shaperepo.com): Library of 'data shapes' to promote interoperability.
@@ -56,12 +64,6 @@ _Resources around owning your data 100%_
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
 - [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 - [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
-- ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907): The difference between 'export' snapshots and 'use this data elsewhere'.
-- ["File over app" by Steph Ango](https://stephango.com/file-over-app): Philosophy to create digital artifacts that last.
-- ["Bring Your Own Client" by Geoffrey Litt](https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html): Freedom to choose your favorite application to interact with some data.
-- ["Composability with other tools" by Gordon Brander](https://subconscious.substack.com/p/composability-with-other-tools): Why are most of our tools silos?
-- ["Universal data portability" by Alexander Obenauer](https://alexanderobenauer.com/labnotes/002/): What if you could browse your stuff in one fluid interface, without considering their differing data types?
-- ["The future needs files" Scott Jenson](https://jenson.org/files/): The power of files comes from them being powerful nouns.
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
