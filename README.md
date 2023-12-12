@@ -45,7 +45,7 @@ _Resources around owning your data 100%_
 - [Zero Data Wrap](https://github.com/0dataapp/0datawrap): Unified JavaScript API for Fission + remoteStorage.
 - [Project Cambria](https://www.inkandswitch.com/cambria.html): Translate your data with lenses.
 
-# Adjacent initiatives
+# Adjacent
 - [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
 - [ShapeRepo](https://shaperepo.com): Library of 'data shapes' to promote interoperability.
 - [Schema.org](https://schema.org): Vocabularies for structured data.
