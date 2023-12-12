@@ -56,6 +56,7 @@ _Resources around owning your data 100%_
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
 - [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 - [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
+- ["Export considered harmful" by Andy Matuschak](https://twitter.com/andy_matuschak/status/1452438176996347907)
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
