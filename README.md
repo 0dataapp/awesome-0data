@@ -53,6 +53,7 @@ _Resources around owning your data 100%_
 - ["Universal data portability" by Alexander Obenauer](https://alexanderobenauer.com/labnotes/002/): What if you could browse your stuff in one fluid interface, without considering their differing data types?
 - ["The future needs files" Scott Jenson](https://jenson.org/files/): The power of files comes from them being powerful nouns.
 - ["how we store and collaborate on our work" by Adam Wiggins](https://adamwiggins.com/making-computers-better/storage): Comparing files, the cloud, and mobile apps to combine the best parts.
+- ["Rethinking how technology uses our personal data" by Lennart Ziburski](https://thecloudfall.com): Managing app permissions using more playful metaphors, like circle of knowledge and data permits.
 
 # Adjacent
 - [Autonomous Data](https://autonomous-data.noeldemartin.com): Application architecture that respects users privacy and data ownership.
