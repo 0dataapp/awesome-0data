@@ -164,7 +164,7 @@ Self-host in a few clicks.
 - [Co-op Cloud](https://coopcloud.tech): Public interest infrastructure.
 - [Elestio](https://elest.io): Fully managed DevOps platform.
 - [Sandstorm](https://sandstorm.io): Open-source platform for self-hosting web apps.
-- [umbrelOS](https://umbrel.com/umbrelos): Self-hosting accessible to everyone, including people with less to none technical knowledge.
+- [umbrelOS](https://umbrel.com/umbrelos): Self-hosting accessible to everyone, including people with less to no technical knowledge.
 - [Cosmos Cloud](https://cosmos-cloud.io): Self-hosting with automated maintenance and security.
 - [CasaOS](https://casaos.io): Simple, easy-to-use, elegant open-source personal cloud system.
 - [PikaPods](https://www.pikapods.com): Instant open-source managed app hosting.
