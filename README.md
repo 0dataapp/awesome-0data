@@ -181,4 +181,4 @@ Self-host in a few clicks.
 - [Gardens](https://www.joingardens.com): Host your own apps, find open-source tools, share how-to guides.
 - [Yacht](https://yacht.sh): Container management UI with a focus on templates and 1-click deployments.
 - [Syncloud](https://syncloud.org): Run your apps at your premises.
-- [Installatron](https://installatron.com): One-click installs as a server, plugin, or, remote.
+- [Installatron](https://installatron.com): One-click installs as a server, plugin, or remote.
