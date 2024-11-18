@@ -10,7 +10,7 @@ _Resources around owning your data 100%_
   <tr>
     <td>
       <a href="https://remotestorage.io">
-        <img title="remoteStorage" src="https://remotestorage.io/img/icon.svg" height="32" />
+        <img title="remoteStorage" src="https://remotestorage.io/logo.svg" height="32" />
       </a>
     </td>
     <td>
