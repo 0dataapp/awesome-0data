@@ -76,6 +76,7 @@ _Resources around owning your data 100%_
 - [Delta Chat](https://delta.chat): A mobile messaging app that invisibly works on top of email.
 - [Bangle.io](https://bangle.io): A free Notion alternative that stores markdown notes in the browser.
 - [TiddlyWiki](http://www.tiddlywiki.com/): A non-linear personal web notebook.
+- [Ensō](https://enso.sonnet.io): Focused writing app with no editing.
 - [Nullboard](https://nullboard.io/preview): Minimalist locally-stored kanban board.
 - [Nomie](https://nomie.app): Privacy-focused life tracker.
 - [Snapdrop](https://snapdrop.net): Instantly share images, videos, PDFs, and links over wifi.
