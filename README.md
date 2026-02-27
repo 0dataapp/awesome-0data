@@ -67,7 +67,6 @@ _Resources around owning your data 100%_
 - [Wildland](https://wildland.io): Backend-agnostic docker for your data.
 - [PDS Interop](https://pdsinterop.org/conventions/overview/): Encouraging interoperability between personal data stores by documenting conventions.
 - [Sockethub](http://sockethub.org): Enables web applications to use protocols traditionally inaccessible or impractical in a browser.
-- [Deta](https://deta.sh): Personal cloud computer.
 
 # Apps
 - [Spendlab](https://www.spendlab.org): Visual budget planning.
@@ -79,7 +78,7 @@ _Resources around owning your data 100%_
 - [Ensō](https://enso.sonnet.io): Focused writing app with no editing.
 - [Nullboard](https://nullboard.io/preview): Minimalist locally-stored kanban board.
 - [Nomie](https://nomie.app): Privacy-focused life tracker.
-- [Snapdrop](https://snapdrop.net): Instantly share images, videos, PDFs, and links over wifi.
+- [PairDrop](https://pairdrop.net): Instantly share images, videos, PDFs, and links over wifi.
 - [Wormhole](https://wormhole.app): Simple, private file sharing.
 - [Jitsi Meet](https://meet.jit.si): Video calls in the browser with no accounts.
 - [tlk.io](https://tlk.io): Video calls in the browser with no accounts.
@@ -90,10 +89,8 @@ _Resources around owning your data 100%_
 - [Apotome](https://isartum.net/apotome): A browser-based generative music environment with microtonal tuning.
 - [2 Brew](https://2brew.github.io): Interactive timers guiding coffee brewing.
 - [e.ggtimer](https://e.ggtimer.com): Simple countdown timers.
-- [TinyMonth](https://tinymonth.com): Shareable calendar with marked dates.
-- [TinySheet](https://tinysheet.com): Shareable tiny spreadsheet.
 - [EtherCalc](https://ethercalc.net): Spreadsheets.
-- [Care Cards](https://carecards.io/info): Helpful tips for wellness.
+- [Care Cards](https://carecards.io): Helpful tips for wellness.
 - [Dillinger](https://dillinger.io): Markdown text editor.
 - [Idiomatic](https://idiomatic.rosano.ca): Convert text between Markdown, HTML, and Rich Text.
 - [Pandoc Try](https://pandoc.org/try): Convert text between Latex, Markdown, HTML, RST and lots more.
@@ -116,8 +113,6 @@ _Resources around owning your data 100%_
 - [Nute](https://nute.app): Simple & fast one-page note taking app.
 - [Music Box Fun](https://musicboxfun.com): 15-note replication of mechanical music boxes.
 - [Itty.bitty](http://about.bitty.site): Create links that contain a webpage.
-- [Seasonal Hours Clock](https://seasonal-hours-clock.netlify.app/): A new style of clock that combines UTC & local times, to make it easier to plan events with friends in different time zones.
-- [hTime](https://thehtime.com): Very similar to Seasonal Hours Clock except it uses letters for the hours instead of words.  Includes a tool for finding good common meeting times.
 - [Hello](https://hello.0data.app): Simple Hello World for 0data protocols.
 - [shhh Noise](https://www.shhhnoise.com): Sounds to increase focus and relax.
 - [Fidget Page](https://www.fidgetpage.com): Virtual fidget spinner.
