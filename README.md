@@ -119,6 +119,7 @@ _Resources around owning your data 100%_
 - [Boring Avatars](https://boringavatars.com): Avatar generator playground.
 - [shaper](https://hihayk.github.io/shaper): Parameterized interface creator.
 - [Word Count](https://wordcount.com): Simple word counter.
+- [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/): Make JavaScript bookmarks to automate the browser.
 
 # [Easy Indie](https://easyindie.app) Platforms
 
