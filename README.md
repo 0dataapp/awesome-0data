@@ -91,6 +91,7 @@ _Resources around owning your data 100%_
 - [e.ggtimer](https://e.ggtimer.com): Simple countdown timers.
 - [EtherCalc](https://ethercalc.net): Spreadsheets.
 - [Care Cards](https://carecards.io): Helpful tips for wellness.
+- [CuidaLocal](https://marcosmmjr2023.github.io/kit-organizacao-cuidados/cuidalocal/): Offline caregiver organizer that stores care data only on the device and exports portable JSON/CSV backups.
 - [Dillinger](https://dillinger.io): Markdown text editor.
 - [Idiomatic](https://idiomatic.rosano.ca): Convert text between Markdown, HTML, and Rich Text.
 - [Pandoc Try](https://pandoc.org/try): Convert text between Latex, Markdown, HTML, RST and lots more.
