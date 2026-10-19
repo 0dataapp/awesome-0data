@@ -83,6 +83,7 @@ _Resources around owning your data 100%_
 - [Jitsi Meet](https://meet.jit.si): Video calls in the browser with no accounts.
 - [tlk.io](https://tlk.io): Video calls in the browser with no accounts.
 - [AI Vocal Remover](https://vocalremover.org): Separate vocals from music with artificial intelligence.
+- [Vocal Separator Metronome](https://vocalseparator.com/metronome): Free rhythm practice metronome that runs locally without an account or audio upload.
 - [Radio Garden](http://radio.garden): Find stations by spinning the globe.
 - [muki](https://muki.io): Online MIDI player.
 - [Leimma](https://isartum.net/leimma): Explore, create, hear and play microtonal tuning systems.
