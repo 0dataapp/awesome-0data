@@ -179,3 +179,4 @@ Self-host in a few clicks.
 - [Yacht](https://yacht.sh): Container management UI with a focus on templates and 1-click deployments.
 - [Syncloud](https://syncloud.org): Run your apps at your premises.
 - [Installatron](https://installatron.com): One-click installs as a server, plugin, or remote.
+- [OpenMat Live](https://openmatlive.com/): Offline-first wrestling tournament platform storing local snapshots in browser DuckDB-Wasm OPFS with zero spectator accounts.
